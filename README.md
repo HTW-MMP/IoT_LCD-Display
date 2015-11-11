@@ -7,4 +7,4 @@ You need a base shield on your edison to use the lcd screen. Connect the screen 
 
 ## Methods
 If you need more methods than the one in the code, please referr to the following page:
-(jhd1313m1 by Intel)[http://iotdk.intel.com/docs/master/upm/node/classes/jhd1313m1.html]
+[jhd1313m1 by Intel](http://iotdk.intel.com/docs/master/upm/node/classes/jhd1313m1.html)
