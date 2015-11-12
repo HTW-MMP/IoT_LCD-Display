@@ -1,0 +1,78 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1447233124000,
+        "modified": 1447233124000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1447228167000,
+        "modified": 1447228167000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1447233219000,
+        "modified": 1447233219000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1447228655000,
+        "modified": 1447228655000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "servo.xdk": {
+        "previousModTime": 1447228167000,
+        "modified": 1447228167000,
+        "seen": true,
+        "name": "servo.xdk"
+      },
+      "servo.xdke": {
+        "previousModTime": 1447233187000,
+        "modified": 1447233187000,
+        "seen": true,
+        "name": "servo.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1447228167000,
+        "modified": 1447228167000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "docs/connection.jpg": {
+        "previousModTime": 1447231313000,
+        "modified": 1447231313000,
+        "seen": true,
+        "name": "docs/connection.jpg"
+      },
+      "docs/connection2.jpg": {
+        "previousModTime": 1447230972000,
+        "modified": 1447230972000,
+        "seen": true,
+        "name": "docs/connection2.jpg"
+      },
+      ".gitignore": {
+        "previousModTime": 1447232974000,
+        "modified": 1447232974000,
+        "seen": true,
+        "name": ".gitignore"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1447233220792
+      }
+    }
+  }
+}
