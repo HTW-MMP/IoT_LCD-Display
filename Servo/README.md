@@ -3,9 +3,9 @@ IoT Servo
 Simple control for the HS-322HD / Tower Pro Micro Servo 9g / Groove Servo Motor.
 
 ## How To Connect
-![Connect Pins](/docs/connection2.jpg)
+![Connect Pins](/Servo/docs/connection2.jpg)
 
-![Connect on board](/docs/connection.jpg)
+![Connect on board](/Servo/docs/connection.jpg)
 
 ## How To Use
 
